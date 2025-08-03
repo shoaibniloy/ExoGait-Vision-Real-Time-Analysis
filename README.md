@@ -100,9 +100,9 @@ Steps:
 MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
+Dr. Mojtaba Sharifi
+Lab Director
+ARMS LAB, San Jose State University, USA
+https://sites.google.com/sjsu.edu/armslab/meet-the-team 
 
-- Built with [Ultralytics YOLO](https://github.com/ultralytics/ultralytics).
-- Inspired by open-source pose estimation projects like [Exercise-Counter-with-YOLOv8](https://github.com/yuyoujiang/Exercise-Counter-with-YOLOv8-on-NVIDIA-Jetson) for demo ideas.
-- Dark theme adapted from PyQt examples.
-
-For questions: Open an issue or contact [your.email@example.com]. Let's fill those research gaps! 🚀
+For questions: Open an issue or contact [shoaibniloy434545@gmail.com]. Let's fill those research gaps! 🚀
