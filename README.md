@@ -1,7 +1,6 @@
 # ExoGait Vision: Real-Time Gait Analysis Tool
 
-![ExoGait Vision Demo](https://drive.google.com/drive/u/1/folders/1XLcr2_aj2EAog7w0BAM5f3IXv_LMI5M-) <!-- Demo GIF showcasing YOLO pose estimation in action, highlighting potential for gait analysis enhancements -->
-![ExoGait Vision Demo]() <!-- Demo GIF showcasing YOLO pose estimation in action, highlighting potential for gait analysis enhancements -->
+
 
 ## Overview
 
