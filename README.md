@@ -71,7 +71,7 @@ Example Output (CSV snippet for spatiotemporal):
 
 ## Potential Improvements & Research Opportunities
 
-To address the gaps I've identified as the world's greatest research gap finder:
+To address the gaps I've identified:
 - **Multi-Person Support**: Extend to track multiple subjects (e.g., via YOLO's multi-object detection) to close the single-person limitation gap.
 - **ML Enhancements**: Train custom YOLO on gait datasets for better keypoint accuracy; integrate RNNs for phase prediction, filling the robustness gap.
 - **Hardware Integration**: API for exoskeleton sync (e.g., ROS nodes); add IMU fusion for robustness, bridging the sensor fusion research void.
